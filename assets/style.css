@@ -1,1 +1,179 @@
-/* Copy your CSS code from CodePen below this point */
+/* Copy your CSS code fro/* Copy your CSS code from CodePen below this point */
+body {
+    background-image: url('https://images.pexels.com/photos/5779781/pexels-photo-5779781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+     min-height: 500px;
+   background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+  }
+
+.ending {
+color: #000000;
+
+}
+
+ul {
+position: relative;
+display: inline-block;
+padding-left: 1em;
+left: 0%;
+transform: translate(-50%;);
+
+}
+
+
+h1 {
+font-family: "Courier New", serif;
+margin: 50px;
+color: #FFFFFF;
+}
+
+h2 {
+font-family: Courier New, serif;
+color: #604020;
+background-color: #ff9966;
+margin-left: 550px;
+margin-right: 550px;
+}
+
+h3 {
+font-family: Courier New, serif;
+color: #604020;
+margin-top: 50px;
+
+}
+
+h4 {
+font-family: Courier New, serif;
+margin-top: 50px;
+margin-bottom: 50px;
+font-weight: 900;
+text-align: center;
+}
+
+p {
+color: white;
+background-color: #ff9966;
+margin-bottom: 50px;
+font-family: Courier New, sans-serif;
+text-align: center;
+line-height: 1.2;
+margin-left: 250px;
+margin-right: 250px;
+
+}
+
+address {
+color: white;
+}
+
+.wikipedia-link {
+margin: 20px;
+padding: 20px;
+background-color: #ff9966;
+font-size: 40px;
+font-family: Courier New, serif;
+}
+
+nav {
+font-family: Courier New, serif;
+margin: 0 auto;
+width: 100%;
+background-color: #ff9966;
+}
+
+.menu-section {
+margin: 0 auto;
+width: 800px;
+background-color: #ff9966;
+text-align: center;
+
+}
+
+.item {
+margin: 0 auto;
+line-height: normal;
+
+}
+
+.image1 {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+background-color: #fcba03;
+border-radius: 50%;
+}
+
+#favorites {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 20px;
+}
+
+.images_div img {
+width: 30%;
+margin-bottom: 20px;
+}
+
+.menu-section, #favorites, .locationhours {
+display:none;
+}
+ 
+
+
+}
+
+.favorite-img {
+max-width: 100%;
+  height: auto;
+display: block;
+
+
+
+}
+
+.footer { 
+justify-content: center;
+display: flex;
+flex-direction: row;
+padding-top: 50px;
+
+
+
+
+
+
+}
+
+span {
+color: white;
+}
+
+address {
+color: white;
+}
+
+.container {
+overflow: hidden;
+position: fixed;
+top: 0;
+width 100%;
+
+}
+
+.navlink{
+float: left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+.mathfavorites {
+text-align: center;
+margin: 0 auto;
+}m CodePen below this point */
